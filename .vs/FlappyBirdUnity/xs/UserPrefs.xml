@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6E9EAA92-C17D-3066-5F92-0308777CA82F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PipeSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bird.cs" Line="28" Column="68" />
+      <File FileName="Assets/Scripts/Pipe.cs" Line="17" Column="39" />
+      <File FileName="Assets/Scripts/PipeSpawner.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlappyBirdUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PipeSpawner.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d16f0e8-b07f-45d4-b4e4-8edfab303932" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
